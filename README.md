@@ -1,12 +1,23 @@
 # MacOSX_Environment
 MacOSX 개발 환경 세팅
 
-* [Java 설치] (http://java.oracle.com)
-* [Git 설치] (http://zetawiki.com/wiki/%EB%A7%A5_OS_X_Git_%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
-* [Maven 설치]
-* [zsh 환경구성]
-  1. [iTerm2 설치] (https://www.iterm2.com/)
-  2. [oh-my-zsh 설치] (https://github.com/robbyrussell/oh-my-zsh)
-  3. [Powerline Font 설치] 
-  4. [zsh-syntax-highlighting plugin 설치]
-  5. [Solarized 테마 설치] (http://ethanschoonover.com/solarized)
+* [Java] (http://java.oracle.com)
+* [Git] (https://git-scm.com/download/mac)
+* [Maven] (https://maven.apache.org/download.cgi)
+* [oh-my-zsh 환경구성]
+  1. [iTerm2] (https://www.iterm2.com/)
+  2. [oh-my-zsh] (https://github.com/robbyrussell/oh-my-zsh)
+  3. [Powerline Font] (https://github.com/powerline/fonts)
+  4. [zsh-syntax-highlighting plugin] (https://github.com/zsh-users/zsh-syntax-highlighting)
+  5. [Solarized Theme] (http://ethanschoonover.com/solarized)
+  6. [Reference Site] (http://humb1ec0ding.github.io/2013/11/26/ubuntu-powerline-beautify-the-stateline.html)
+  7. [vimrc tweak] (https://github.com/amix/vimrc)
+* [Node.js] (https://nodejs.org/en/)
+* [Python] (https://www.python.org/downloads/)
+* [GoLang] (https://golang.org/)
+* [IntelliJ IDEA] (https://www.jetbrains.com/idea/)
+* [MySQL Workbench] (https://www.mysql.com/products/workbench/)
+* [SublimeText] (https://www.sublimetext.com/)
+* [Atom.io] (https://atom.io/)
+* [Ansible] (http://docs.ansible.com/ansible/intro_installation.html#latest-releases-via-pip)
+* [Docker] (https://docs.docker.com/mac/step_one/)
