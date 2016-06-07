@@ -24,3 +24,5 @@ Mac OS-X Develop Environment Setup
 * [Docker] (https://docs.docker.com/mac/step_one/)
 * [OpenSSH Config] (http://www.cyberciti.biz/faq/create-ssh-config-file-on-linux-unix/)
 * [KeyStore Explorer] (http://www.keystore-explorer.org/index.php)
+* [KeepassX] (https://www.keepassx.org/)
+* [iStat Menus] (https://bjango.com/mac/istatmenus/)
